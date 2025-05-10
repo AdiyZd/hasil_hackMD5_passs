@@ -23,13 +23,18 @@
 ```
 
 ---
+## 🗄️ Database Configuration
 
+```php
 define('DB_NAME',     'smkmuhkr_wp954');
 define('DB_USER',     'smkmuhkr_wp954');
 define('DB_PASSWORD', '8po2!44RS.');
 define('DB_HOST',     'localhost');
 define('DB_CHARSET',  'utf8mb4');
 
+```
+
+---
 **Websaite :** [unpa.ac.id](https://www.unpad.ac.id)
 Username : admin
 Password : 633615
