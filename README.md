@@ -21,6 +21,9 @@
 'NONCE_SALT'         => 'aygib2tmb2ezzhgvdi8s5muwclaq4anm8cfqxtiqrxup1gbmohcduigsuwxqt5lu'
 
 ```
+
+---
+
 define('DB_NAME',     'smkmuhkr_wp954');
 define('DB_USER',     'smkmuhkr_wp954');
 define('DB_PASSWORD', '8po2!44RS.');
