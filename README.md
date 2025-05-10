@@ -14,17 +14,23 @@
 
 ## DATA BASE
 
-``` /** The name of the database for WordPress */ ```
+ /** The name of the database for WordPress */ 
 ### define('DB_NAME', 'smkmuhkr_wp954');
 
-```/** MySQL database username */```
+/** MySQL database username */
 ### define('DB_USER', 'smkmuhkr_wp954');
 
-```/** MySQL database password */```
+/** MySQL database password */
 ### define('DB_PASSWORD', '8po2!44RS.');
 
-```/** MySQL hostname */```
+/** MySQL hostname */
 ### define('DB_HOST', 'localhost');
 
-```/** Database Charset to use in creating database tables. */```
+/** Database Charset to use in creating database tables. */
 ### define('DB_CHARSET', 'utf8mb4');
+=============================================================================================================
+# https://www.unpad.ac.id/
+## HACKING WORDPRESS
+
+### USERNAME : admin
+### PASSWORD : 633615
