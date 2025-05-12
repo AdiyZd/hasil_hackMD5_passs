@@ -10,7 +10,7 @@
 
 ## 🔑 WordPress Keys
 
-```php
+```json
 'AUTH_KEY'           => '83b0f3tu1d4rhjwqswpjrjqoqt2l6wrpmuoz8zfmkejh4nk3cff2zhf1bazr3ses',
 'SECURE_AUTH_KEY'    => 'y79kig8nfhgb6ht70efb4hdhn3uudba17o5eypk7niew9jvvkyk17wukfnow7nso',
 'LOGGED_IN_KEY'      => 'nv3q1sznj54lwpxovycwqlz0ad7bd2ngm3wev76tdbzagxlgxakql7mdvdcypsi9',
